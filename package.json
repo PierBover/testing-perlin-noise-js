@@ -1,0 +1,28 @@
+{
+  "name": "testing-perlin-noise",
+  "version": "1.0.0",
+  "description": "Perlin noise functions by @joeiddon",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PierBover/testing-perlin-noise-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PierBover/testing-perlin-noise-js/issues"
+  },
+  "homepage": "https://github.com/PierBover/testing-perlin-noise-js#readme",
+  "devDependencies": {
+    "vite": "^4.2.1"
+  },
+  "dependencies": {
+    "@leodeslf/perlin-noise": "^1.1.2",
+    "cubic-spline": "^3.0.3"
+  }
+}
